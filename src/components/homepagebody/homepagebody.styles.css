@@ -1,0 +1,9 @@
+#homepage-body{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    box-sizing:border-box;
+    width:80%;
+    padding-right: 15px;
+}
