@@ -1,8 +1,8 @@
 {
-  "name": "monsters-rolodex",
+  "name": "Travel-Site-Frontend-only-React.js",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Pycobra.github.io/travelSite",
+  "homepage": "https://Pycobra.github.io/Travel-Site-Frontend-only-React.js",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
@@ -46,7 +46,7 @@
     ]
   },
   "main": "index.js",
-  "repository": "git@github.com:Pycobra/monsters-rolodex.git",
+  "repository": "git@github.com:Pycobra/Travel-Site-Frontend-only-React.js.git",
   "author": "Bright Orji <megabright007@gmail.com>",
   "license": "MIT"
 }
